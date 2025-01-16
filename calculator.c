@@ -11,7 +11,7 @@ int main()
 
     if (choice > 4)
     {
-        printf("the enetr choice is not valid");
+        printf("the enter choice is not valid");
     }
     else
     {
@@ -37,7 +37,7 @@ int main()
         }
         else
         {
-            printf("number can't didvide by zero");
+            printf("number can't divide by zero");
         }
         break;
     default:
